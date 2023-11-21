@@ -1,7 +1,7 @@
 from manim import *
 import numpy as np
 
-class Transformaciones(Scene):
+class Teorema2(Scene):
     def construct(self):
         # Definir objetos matemáticos iniciales
         alpha_n = MathTex("\\alpha_n").move_to(LEFT)
