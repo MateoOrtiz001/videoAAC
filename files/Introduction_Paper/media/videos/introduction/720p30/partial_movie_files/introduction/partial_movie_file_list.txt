@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/David/Videos_ABC/Introduction_Paper/media/videos/introduction/720p30/partial_movie_files/introduction/274514146_3315967912_3619938286.mp4'
+file 'file:C:/Users/David/Videos_ABC/Introduction_Paper/media/videos/introduction/720p30/partial_movie_files/introduction/2789044632_2879512872_230770454.mp4'
+file 'file:C:/Users/David/Videos_ABC/Introduction_Paper/media/videos/introduction/720p30/partial_movie_files/introduction/2789044632_329969645_3547520947.mp4'
+file 'file:C:/Users/David/Videos_ABC/Introduction_Paper/media/videos/introduction/720p30/partial_movie_files/introduction/2789044632_2905557714_3828168139.mp4'
+file 'file:C:/Users/David/Videos_ABC/Introduction_Paper/media/videos/introduction/720p30/partial_movie_files/introduction/2789044632_3120587334_3933993692.mp4'
+file 'file:C:/Users/David/Videos_ABC/Introduction_Paper/media/videos/introduction/720p30/partial_movie_files/introduction/2789044632_19100920_3265092094.mp4'
+file 'file:C:/Users/David/Videos_ABC/Introduction_Paper/media/videos/introduction/720p30/partial_movie_files/introduction/2789044632_1173740977_2367137924.mp4'
+file 'file:C:/Users/David/Videos_ABC/Introduction_Paper/media/videos/introduction/720p30/partial_movie_files/introduction/2789044632_3123277238_734738479.mp4'
+file 'file:C:/Users/David/Videos_ABC/Introduction_Paper/media/videos/introduction/720p30/partial_movie_files/introduction/2789044632_3023951634_3592394519.mp4'
+file 'file:C:/Users/David/Videos_ABC/Introduction_Paper/media/videos/introduction/720p30/partial_movie_files/introduction/2789044632_1164983110_1085572655.mp4'
+file 'file:C:/Users/David/Videos_ABC/Introduction_Paper/media/videos/introduction/720p30/partial_movie_files/introduction/2789044632_329969645_590916581.mp4'
